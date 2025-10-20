@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39dbd91ec66a229428cf7e64aabb57bb, type: 3}
   m_Name: AudioDataSO
   m_EditorClassIdentifier: 
-  <Id>k__BackingField: 
-  <AudioDatas>k__BackingField: []
+  Id: 
+  AudioType: 0
+  DangerousAudioDatas: []
+  Description: '45234ret
+
+'
